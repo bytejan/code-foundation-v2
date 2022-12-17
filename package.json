@@ -58,7 +58,11 @@
     "url-loader": "^4.1.1"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@expo/metro-config": "0.5.1",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
     "core-js": "^3.6.5",
     "expo": "47.0.8",
     "expo-splash-screen": "~0.17.5",
